@@ -107,7 +107,7 @@ Employee-Management-System/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/employee-management-system-streamlit.git
+git clone https://github.com/IamAnandMahato/Employee-Management-System
 ```
 
 ## 2. Navigate to Project
@@ -177,7 +177,7 @@ You can add screenshots here after running the project.
 
 # 👨‍💻 Author
 
-**Sachin**
+**Anand Mahato**
 
 ---
 
