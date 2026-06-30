@@ -1,0 +1,89 @@
+/* ===============================
+   Employee Management System Theme
+   =============================== */
+
+/* Main App */
+.stApp {
+    background-color: #f5f7fb;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #1f4e79;
+    font-weight: bold;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #1f4e79;
+}
+
+section[data-testid="stSidebar"] * {
+    color: white;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #1f77b4;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}
+
+.stButton > button:hover {
+    background-color: #0d6efd;
+    color: white;
+}
+
+/* Text Input */
+.stTextInput input {
+    border-radius: 8px;
+}
+
+/* Select Box */
+.stSelectbox div[data-baseweb="select"] {
+    border-radius: 8px;
+}
+
+/* Number Input */
+.stNumberInput input {
+    border-radius: 8px;
+}
+
+/* DataFrame */
+[data-testid="stDataFrame"] {
+    border-radius: 12px;
+    border: 1px solid #d9d9d9;
+}
+
+/* Metric Cards */
+[data-testid="stMetric"] {
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.10);
+}
+
+/* Tabs */
+button[role="tab"] {
+    font-weight: bold;
+}
+
+/* Success Message */
+.stAlert {
+    border-radius: 10px;
+}
+
+/* Divider */
+hr {
+    border: 1px solid #dddddd;
+}
+
+/* Footer */
+footer {
+    visibility: hidden;
+}
